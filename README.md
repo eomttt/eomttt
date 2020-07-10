@@ -16,4 +16,5 @@ Waug Travel 프론트엔드 팀에서 근무하였고, [waug.com](https://www.wa
 
 ### 그외
 블로그를 운영하고 있습니다. (글을 잘 안쓰지만) [Velog](https://velog.io/@eomttt)
+
 사이드 프로젝트를 하고 있습니다. [MovieKing](https://github.com/eomttt/movie-king)
