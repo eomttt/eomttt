@@ -1,3 +1,5 @@
+JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습니다.
+
 ### 현재
 #### RIDI
 PC Viewer용 앱을 개발하고 있습니다
@@ -11,3 +13,7 @@ IoT 관련해서 펌웨어 개발을 주로 하였습니다. 그 외의 Ionic을
 
 #### Waug
 Waug Travel 프론트엔드 팀에서 근무하였으며 NEXT 기반에 SSR 페이지를 개발 및 운영 하였습니다.
+
+### 그외
+블로그를 운영하고 있습니다. (글을 잘 안쓰지만) [Velog](https://velog.io/@eomttt)
+사이드 프로젝트를 하고 있습니다. [MovieKing](https://github.com/eomttt/movie-king)
