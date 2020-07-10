@@ -7,7 +7,7 @@ PC Viewer용 앱을 개발하고 있습니다.
 #### 그 외
 블로그를 운영하고 있습니다. (글을 잘 안쓰지만) [Velog](https://velog.io/@eomttt)
 
-사이드 프로젝트를 하고 있습니다. [MovieKing](https://github.com/eomttt/movie-king)
+사이드 프로젝트를 하고 있습니다.
 
 ### 이력
 #### NARAN
