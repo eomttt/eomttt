@@ -12,7 +12,7 @@ IoT 관련해서 펌웨어 개발을 주로 하였습니다. 그 외의 Ionic을
 투표형 SNS를 만들고자 창업을 하였었고, 후에 '[밤편지[(https://bamletter.com/)'라는 편지형 SNS를 만들어서 운영하였습니다.
 
 #### Waug
-Waug Travel 프론트엔드 팀에서 근무하였고, [waug.com](https://www.waug.com/ko/)을 개발 및 .
+Waug Travel 프론트엔드 팀에서 근무하였고, [waug.com](https://www.waug.com/ko/)을 개발 및 운영하였습니다.
 
 ### 그외
 블로그를 운영하고 있습니다. (글을 잘 안쓰지만) [Velog](https://velog.io/@eomttt)
