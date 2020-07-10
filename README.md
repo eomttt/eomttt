@@ -1,5 +1,3 @@
-# eomttt
-
 ## 현재
 ### RIDI
 PC Viewer용 앱을 개발하고 있습니다
