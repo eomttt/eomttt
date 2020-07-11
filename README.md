@@ -19,3 +19,5 @@ IoT 관련해서 펌웨어 개발을 주로 하였습니다. 그 외의 Ionic을
 #### WAUG
 Waug Travel 프론트엔드 팀에서 근무하였고, [waug.com](https://www.waug.com/ko/)을 개발 및 운영하였습니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
+
