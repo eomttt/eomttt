@@ -1,13 +1,9 @@
 JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습니다.
+종종 블로그도 씁니다 [Velog](https://velog.io/@eomttt)
 
 ### 현재
 #### RIDI
 PC Viewer용 앱을 개발하고 있습니다.
-
-#### 그 외
-블로그를 운영하고 있습니다. (글을 잘 안쓰지만) [Velog](https://velog.io/@eomttt)
-
-사이드 프로젝트를 하고 있습니다.
 
 ### 이력
 #### NARAN
