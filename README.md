@@ -14,7 +14,7 @@ IoT 관련해서 펌웨어 개발 및 CrossPlatform 앱개발을 주로 하였�
 [밤편지](https://bamletter.com/)라는 편지형 SNS를 개발 및 운영하였습니다.
 
 #### WAUG
-Waug Travel 프론트엔드 팀에서 근무하였습니다.
+[Waug Travel](https://waug.com) 프론트엔드 팀에서 근무하였습니다.
 
 [![eomttt's github stats](https://github-readme-stats.vercel.app/api?username=eomttt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
