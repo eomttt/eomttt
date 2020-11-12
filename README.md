@@ -16,7 +16,12 @@ IoT 관련해서 펌웨어 개발 및 CrossPlatform 앱개발을 주로 하였�
 #### WAUG
 [Waug Travel](https://waug.com) 프론트엔드 팀에서 근무하였습니다.
 
+### 기타
+부스트캠프2020 코드 리뷰어로 활동했습니다.
+
+
 [![eomttt's github stats](https://github-readme-stats.vercel.app/api?username=eomttt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 
