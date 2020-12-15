@@ -4,7 +4,8 @@ JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습�
 
 ## 현재
 #### RIDI
-PC Viewer용 앱을 개발하고 있습니다.
+- PC Viewer용 앱을 개발하고 있습니다.
+- RN을 이용하여 앱을 개발하고 있습니다.
 
 ## 이력
 #### NARAN
