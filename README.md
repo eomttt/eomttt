@@ -19,7 +19,3 @@ IoT 관련해서 펌웨어 개발 및 CrossPlatform 앱개발을 주로 하였�
 
 ## 기타
 부스트캠프2020 코드 리뷰어로 활동했습니다.
-
-
-![Metrics](https://metrics.lecoq.io/eomttt?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FSeoul&config.animated=true)
-
