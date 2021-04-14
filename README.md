@@ -1,6 +1,7 @@
 JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습니다.
 
 종종 블로그도 씁니다 [Velog](https://velog.io/@eomttt)
+
 [Career](https://eomttt.github.io/eomttt-blog/)
 
 ## 현재
