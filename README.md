@@ -4,7 +4,7 @@ JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습�
 
 ## 현재
 #### Fitpet
-핏펫몰을 개발하고 있습니다.
+[핏펫몰](https://v.fitpetmall.com/)을 개발하고 있습니다.
 
 ## [이력](https://eomttt.github.io/eomttt-blog/)
 #### RIDI
