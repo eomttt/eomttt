@@ -7,7 +7,7 @@ JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습�
 
 ## [이력](https://eomttt.github.io/eomttt-blog/)
 #### Fitpet
-[핏펫몰](https://v.fitpetmall.com/)을 개발하고 있습니다.
+[핏펫몰](https://v.fitpetmall.com/)을 개발하였습니다.
 
 #### RIDI
 [Ridibooks](https://ridibooks.com/) 리디북스 앱 및 PC Viewer를 개발하였습니다.
