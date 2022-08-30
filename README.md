@@ -3,7 +3,7 @@ JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습�
 종종 블로그도 씁니다 [Velog](https://velog.io/@eomttt)
 
 ## 현재
-준비 중...
+[flex](https://flex.team/)
 
 ## 이력
 #### 디리토
