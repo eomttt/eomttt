@@ -7,7 +7,7 @@ JavaScript를 주로 사용하고 Frontend 기반에 기술에 관심이 많습�
 
 ## 이력
 #### 디리토
-[디리토](https://www.diritto.co.kr/series/all) 및 디리토 앱을 개발 하였습니다.
+[디리토](https://www.diritto.co.kr/home) 및 디리토 앱을 개발 하였습니다.
 
 #### Fitpet
 [핏펫몰](https://v.fitpetmall.com/) 및 핏펫 앱을 개발 하였습니다.
